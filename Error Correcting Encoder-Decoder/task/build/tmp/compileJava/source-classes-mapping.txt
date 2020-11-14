@@ -1,0 +1,14 @@
+correcter/DataViewer.java
+ correcter.DataViewer
+correcter/DataErrorGenerator.java
+ correcter.DataErrorGenerator
+correcter/DataEncoder.java
+ correcter.DataEncoder
+correcter/Main.java
+ correcter.Main
+correcter/BitArray.java
+ correcter.BitArray
+correcter/MutableByte.java
+ correcter.MutableByte
+correcter/DataDecoder.java
+ correcter.DataDecoder
